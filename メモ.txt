@@ -1,0 +1,5 @@
+カーソルで範囲指定してShift+Enterでそこだけ実行
+
+ダイクストラ法は重みが正の時だけ
+負もある時は
+G.bellman_ford_path_length()
